@@ -1,6 +1,6 @@
 # 🕸️ Atividades HTML - Desenvolvimento Web
 
-## Este repositório contém 14 atividades práticas desenvolvidas com **HTML**, como parte de um curso ou prática de desenvolvimento web.
+## Este repositório contém 14 atividades práticas desenvolvidas com **HTML**, como parte da disciplina e prática de desenvolvimento web.
 
 - [Atividade 1](https://murilo-neto26.github.io/Repositorio_Atividade-01/)
 - [Atividade 2](https://murilo-neto26.github.io/Repositorio_Atividade-02/)
