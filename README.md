@@ -1,4 +1,6 @@
-# Repositório de Desenvolvimento Web 2025.2
+# 🕸️ Atividades HTML - Desenvolvimento Web
+
+## Este repositório contém 14 atividades práticas desenvolvidas com **HTML5**, como parte de um curso ou prática de desenvolvimento web.
 
 - [Atividade 1](https://murilo-neto26.github.io/Repositorio_Atividade-01/)
 - [Atividade 2](https://murilo-neto26.github.io/Repositorio_Atividade-02/)
