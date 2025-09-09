@@ -2,9 +2,9 @@
 
 - [Atividade 1](https://murilo-neto26.github.io/Repositorio_Atividade-01/)
 - [Atividade 2](https://murilo-neto26.github.io/Repositorio_Atividade-02/)
-- [Atividade 3]()
-- [Atividade 4]()
-- [Atividade 5]
+- [Atividade 3](https://murilo-neto26.github.io/Repositorio_Atividade-03/)
+- [Atividade 4](https://murilo-neto26.github.io/Repositorio_Atividade-04/)
+- [Atividade 5](https://murilo-neto26.github.io/Repositorio_Atividade-05/)
 - [Atividade 6]
 - [Atividade 7]
 - [Atividade 8]
